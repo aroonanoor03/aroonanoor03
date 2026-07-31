@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 620" width="100%">
+  <defs>
+    <linearGradient id="fillGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A9C0A0" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#C98BA5" stop-opacity="0.55"/>
+    </linearGradient>
+    <filter id="dotShadow" x="-60%" y="-60%" width="220%" height="220%">
+      <feDropShadow dx="0" dy="1.5" stdDeviation="1.5" flood-color="#3E4A35" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <text x="300" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#3E4A35">
+    AI / ML Skill Domains
+  </text>
+
+  <g stroke="#A9C0A0" stroke-width="1" fill="none" opacity="0.45">
+    <polygon points="300,124 452.44,212 452.44,388 300,476 147.56,388 147.56,212"/>
+    <polygon points="300,168 414.02,234 414.02,366 300,432 185.98,366 185.98,234"/>
+    <polygon points="300,212 375.61,256 375.61,344 300,388 224.39,344 224.39,256"/>
+    <polygon points="300,256 337.21,278 337.21,322 300,344 262.79,322 262.79,278"/>
+    <polygon points="300,300 300,300 300,300 300,300 300,300 300,300"/>
+  </g>
+
+  <g stroke="#C98BA5" stroke-width="1" opacity="0.5">
+    <line x1="300" y1="300" x2="300" y2="80"/>
+    <line x1="300" y1="300" x2="490.53" y2="190"/>
+    <line x1="300" y1="300" x2="490.53" y2="410"/>
+    <line x1="300" y1="300" x2="300" y2="520"/>
+    <line x1="300" y1="300" x2="109.47" y2="410"/>
+    <line x1="300" y1="300" x2="109.47" y2="190"/>
+  </g>
+
+  <g font-family="'Trebuchet MS', Verdana, sans-serif" font-size="15" font-weight="600" fill="#3E4A35" text-anchor="middle">
+    <text x="300" y="52">Computer Vision</text>
+    <text x="560" y="167">Deep Learning</text>
+    <text x="560" y="443">Edge AI &amp; Distributed Inference</text>
+    <text x="300" y="562">NLP &amp; LLMs</text>
+    <text x="40" y="443">Benchmarking &amp; Optimization</text>
+    <text x="40" y="167">Full-Stack Development</text>
+  </g>
+
+  <polygon points="300,80 490.53,190 490.53,410 300,80 300,80 300,80" fill="url(#fillGrad)" stroke="#6B8E5A" stroke-width="2" opacity="0">
+    <animate attributeName="points"
+      values="300,300 300,300 300,300 300,300 300,300 300,300;
+              300,80 490.53,190 452.44,388 300,476 147.56,388 147.56,212"
+      dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    <animate attributeName="opacity" values="0;0.9" dur="0.8s" fill="freeze"/>
+  </polygon>
+
+  <g filter="url(#dotShadow)">
+    <circle cx="300" cy="80" r="6" fill="#6B8E5A">
+      <animate attributeName="opacity" values="0;1" begin="1.2s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="r" values="6;8;6" begin="1.6s" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="490.53" cy="190" r="6" fill="#6B8E5A">
+      <animate attributeName="opacity" values="0;1" begin="1.2s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="r" values="6;8;6" begin="1.8s" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="452.44" cy="388" r="6" fill="#C98BA5">
+      <animate attributeName="opacity" values="0;1" begin="1.2s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="r" values="6;8;6" begin="2.0s" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="476" r="6" fill="#C98BA5">
+      <animate attributeName="opacity" values="0;1" begin="1.2s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="r" values="6;8;6" begin="2.2s" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="147.56" cy="388" r="6" fill="#6B8E5A">
+      <animate attributeName="opacity" values="0;1" begin="1.2s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="r" values="6;8;6" begin="2.4s" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="147.56" cy="212" r="6" fill="#6B8E5A">
+      <animate attributeName="opacity" values="0;1" begin="1.2s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="r" values="6;8;6" begin="2.6s" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
