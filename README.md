@@ -37,7 +37,7 @@
 
 <img src="https://raw.githubusercontent.com/aroonanoor03/aroonanoor03/main/assets/divider.svg" width="100%"/>
 
-## 🌿 About Me
+## About Me
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
@@ -45,10 +45,10 @@ I'm a **Computer Science undergraduate (AI Specialization)** at **COMSATS Univer
 
 My work sits at the intersection of **Software Engineering** and **Applied AI**:
 
-- 🔬 **AI/ML Engineering** — real-time computer vision pipelines, object detection systems (YOLO, CNNs), NLP-driven applications, and edge-inference architectures.
-- 🏗️ **Full-Stack Development** — secure, scalable web platforms with authentication, role-based access control, and RESTful APIs.
-- ⚙️ **Systems & Product Thinking** — latency budgets, memory footprints, security boundaries, and real-world constraints, not just accuracy metrics.
-- 🧩 **Engineering Discipline** — structured testing (unit / integration / end-to-end), version control workflows, and code review culture.
+-  **AI/ML Engineering** — real-time computer vision pipelines, object detection systems (YOLO, CNNs), NLP-driven applications, and edge-inference architectures.
+-  **Full-Stack Development** — secure, scalable web platforms with authentication, role-based access control, and RESTful APIs.
+-  **Systems & Product Thinking** — latency budgets, memory footprints, security boundaries, and real-world constraints, not just accuracy metrics.
+-  **Engineering Discipline** — structured testing (unit / integration / end-to-end), version control workflows, and code review culture.
 
 I approach every project like an engineer first and a researcher second: define the constraints, design for reliability, then optimize for performance.
 
@@ -58,7 +58,7 @@ I approach every project like an engineer first and a researcher second: define 
 
 <div align="center">
 
-| 💼 Software Engineer | 🤖 AI/ML Engineer | 🧠 Computer Vision Engineer | 🌐 Full-Stack Developer | 🧪 Research Internships |
+| Software Engineer | AI/ML Engineer | Computer Vision Engineer | Full-Stack Developer | Research Internships |
 |:---:|:---:|:---:|:---:|:---:|
 
 </div>
@@ -73,7 +73,7 @@ I approach every project like an engineer first and a researcher second: define 
 
 <img src="https://raw.githubusercontent.com/aroonanoor03/aroonanoor03/main/assets/divider.svg" width="100%"/>
 
-## 🍃 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -114,7 +114,7 @@ I approach every project like an engineer first and a researcher second: define 
 
 <img src="https://raw.githubusercontent.com/aroonanoor03/aroonanoor03/main/assets/divider.svg" width="100%"/>
 
-## 🌸 AI / ML Expertise
+## AI / ML Expertise
 
 <div align="center">
 
@@ -179,7 +179,7 @@ A real-time computer vision system that dynamically adjusts traffic signal timin
 </details>
 
 <details>
-<summary><b>🏠 Rent Marketplace — Full-Stack Web Platform</b></summary>
+<summary><b> Rent Marketplace — Full-Stack Web Platform</b></summary>
 <br/>
 
 A full-stack property-rental platform supporting listings, advanced search/filter, and a responsive UI across devices, with secure role-based authentication.
@@ -220,7 +220,7 @@ A CNN-based image-recognition pipeline that identifies recipe ingredients from p
 
 <img src="https://raw.githubusercontent.com/aroonanoor03/aroonanoor03/main/assets/divider.svg" width="100%"/>
 
-## 💐 Experience
+## Experience
 
 ### Teaching Assistant — Data Structures & Algorithms
 **COMSATS University Islamabad, Wah Campus**
@@ -239,7 +239,7 @@ Supporting a large-scale undergraduate DSA cohort through code evaluation and st
 
 <img src="https://raw.githubusercontent.com/aroonanoor03/aroonanoor03/main/assets/divider.svg" width="100%"/>
 
-## 🏵️ Achievements
+## Achievements
 
 <div align="center">
 
@@ -254,7 +254,7 @@ Supporting a large-scale undergraduate DSA cohort through code evaluation and st
 
 <img src="https://raw.githubusercontent.com/aroonanoor03/aroonanoor03/main/assets/divider.svg" width="100%"/>
 
-## 📖 Academic Foundation
+## Academic Foundation
 
 **COMSATS University Islamabad — BS Computer Science, AI Specialization** `Feb 2023 – Jan 2027`
 
@@ -264,7 +264,7 @@ Relevant coursework: `Machine Learning` `Data Structures & Algorithms` `Artifici
 
 <img src="https://raw.githubusercontent.com/aroonanoor03/aroonanoor03/main/assets/divider.svg" width="100%"/>
 
-## 🌷 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -277,7 +277,7 @@ Relevant coursework: `Machine Learning` `Data Structures & Algorithms` `Artifici
 
 <br/>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -287,7 +287,7 @@ Relevant coursework: `Machine Learning` `Data Structures & Algorithms` `Artifici
 
 <br/>
 
-## 🌼 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -312,7 +312,7 @@ Relevant coursework: `Machine Learning` `Data Structures & Algorithms` `Artifici
 
 <img src="https://raw.githubusercontent.com/aroonanoor03/aroonanoor03/main/assets/divider.svg" width="100%"/>
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 learning:
@@ -339,7 +339,7 @@ open_to:
 
 <img src="https://raw.githubusercontent.com/aroonanoor03/aroonanoor03/main/assets/divider.svg" width="100%"/>
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
