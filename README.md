@@ -138,10 +138,10 @@ I approach every project like an engineer first and a researcher second: define 
 
 <img src="https://raw.githubusercontent.com/aroonanoor03/aroonanoor03/main/assets/divider.svg" width="100%"/>
 
-## 🌼 Featured Projects
+## Featured Projects
 
 <details>
-<summary><b>🧩 3D Point Cloud Object Detection on Edge Devices (Split Computing)</b></summary>
+<summary><b> 3D Point Cloud Object Detection on Edge Devices (Split Computing)</b></summary>
 <br/>
 
 A split-inference system that distributes neural-network workloads between resource-constrained edge nodes and cloud servers to make real-time 3D object detection viable on low-power hardware.
@@ -160,7 +160,7 @@ A split-inference system that distributes neural-network workloads between resou
 </details>
 
 <details>
-<summary><b>🚦 Traffic Light Control System — Congestion Detection & Emergency Vehicle Priority</b></summary>
+<summary><b> Traffic Light Control System — Congestion Detection & Emergency Vehicle Priority</b></summary>
 <br/>
 
 A real-time computer vision system that dynamically adjusts traffic signal timing based on live congestion detection, with priority override for emergency vehicles.
@@ -198,7 +198,7 @@ A full-stack property-rental platform supporting listings, advanced search/filte
 </details>
 
 <details>
-<summary><b>🍳 Recipe Ingredient Recognition & Suggestion System</b></summary>
+<summary><b> Recipe Ingredient Recognition & Suggestion System</b></summary>
 <br/>
 
 A CNN-based image-recognition pipeline that identifies recipe ingredients from photographs and recommends relevant recipes.
@@ -243,7 +243,7 @@ Supporting a large-scale undergraduate DSA cohort through code evaluation and st
 
 <div align="center">
 
-| 🏅 Recognition | Details |
+| Recognition | Details |
 |---|---|
 | **3rd Position — All Pakistan Inter University Idea Competition** | RWU 3rd Idea Fest 2026, organized by ORIC, Rawalpindi Women University — competed against university teams nationwide, judged by academic and industry professionals |
 | **Events & Logistics Member — ACM COMSATS Wah Chapter** | Association for Computing Machinery, 2024–2025 — co-organized technical workshops and coding events for 200+ participants |
@@ -297,7 +297,7 @@ Relevant coursework: `Machine Learning` `Data Structures & Algorithms` `Artifici
 
 <br/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
